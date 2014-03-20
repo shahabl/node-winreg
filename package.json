@@ -6,9 +6,6 @@
   "scripts": {
     "test": "node test.js"
   },
-  "os": [
-    "win32"
-  ],
   "cpu": [
     "x64",
     "ia32"
